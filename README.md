@@ -1,1 +1,1 @@
-# deterministic-skip-list
+Implementation of deterministic skip list data structure as detailed in the deterministic skip list paper of Munro,Papadakis, et. al (https://www.ic.unicamp.br/~celio/peer2peer/skip-net-graph/deterministic-skip-lists-munro.pdf). This library can be used in Ethereum fully decentralized exchange implementation with on-chain order books and settlements as contrasted to forkdelta and other off-chain order book exchanges.
